@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ameer Hamza Khan</h1>
-<h3 align="center">A passionate Software Engineer & Game Developer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <img align="right"alt="coding" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/share/mAyBVx)
 
-- 🌱 I’m currently learning **Game Development,Machine Learning and Software Testing**
+- 🌱 I’m currently learning **Web Development, Machine Learning and Software Testing**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ameer-hamza-khan-4821a3188](https://www.linkedin.com/in/ameer-hamza-khan-4821a3188)
 
